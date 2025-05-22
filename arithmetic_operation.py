@@ -29,3 +29,11 @@ b=2
 c=a/b
 # c is the division of a and b
 print("division of number :",c)
+
+a=233
+# value of a is 233
+b=3
+# value of b is 3
+c=a%b
+# c is the modulus of a and b   
+print("remainder of number :",c)
